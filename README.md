@@ -1,4 +1,4 @@
-# Prodigal parrot | Hard | AI
+# Prodigal parrot | Hard | AISec
 
 ## Информация
 
@@ -9,7 +9,7 @@
 
 ## Выдать участинкам
 
-[public/cages.zip](public/cages.zip)
+[public/](public/)
 
 ## Описание
 
@@ -25,4 +25,4 @@ python solver.py --base hook.onnx --ft kesha.onnx --tok dictionary.json --n-embd
 
 ## Флаг
 
-vrnctf{1Aeju}
+ctf{1Aeju}
